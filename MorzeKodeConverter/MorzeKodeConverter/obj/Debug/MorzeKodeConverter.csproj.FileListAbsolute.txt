@@ -1,0 +1,7 @@
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\bin\Debug\MorzeKodeConverter.exe.config
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\bin\Debug\MorzeKodeConverter.exe
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\bin\Debug\MorzeKodeConverter.pdb
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\obj\Debug\MorzeKodeConverter.csproj.AssemblyReference.cache
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\obj\Debug\MorzeKodeConverter.csproj.CoreCompileInputs.cache
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\obj\Debug\MorzeKodeConverter.exe
+C:\Users\Cope-main\source\repos\MorzeKodeConverter\MorzeKodeConverter\obj\Debug\MorzeKodeConverter.pdb
