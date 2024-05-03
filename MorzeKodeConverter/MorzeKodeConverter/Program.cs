@@ -25,7 +25,7 @@ namespace MorzeKodeConverter
             slova.Add("i", ".. ");
             slova.Add("j", ".--- ");
             slova.Add("k", "-.- ");
-            slova.Add("l", "-.-- ");
+            slova.Add("l", ".-.. ");
             slova.Add("m", "-- ");
             slova.Add("n", "-. ");
             slova.Add("o", "--- ");
@@ -39,7 +39,7 @@ namespace MorzeKodeConverter
             slova.Add("w", ".-- ");
             slova.Add("x", "-..- ");
             slova.Add("y", "-.-- ");
-            slova.Add("z", "--. ");
+            slova.Add("z", "--.. ");
         }
         static bool sadrziSpecijalneKaraktere;
         static bool HasSpecialChars(string yourString)
