@@ -1,0 +1,7 @@
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\bin\Debug\NovcaniceZaBanku.exe.config
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\bin\Debug\NovcaniceZaBanku.exe
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\bin\Debug\NovcaniceZaBanku.pdb
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\obj\Debug\NovcaniceZaBanku.csproj.AssemblyReference.cache
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\obj\Debug\NovcaniceZaBanku.csproj.CoreCompileInputs.cache
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\obj\Debug\NovcaniceZaBanku.exe
+C:\Users\Cope-main\source\repos\NovcaniceZaBanku\NovcaniceZaBanku\obj\Debug\NovcaniceZaBanku.pdb
